@@ -44,11 +44,11 @@ This repository contains the code and data for my research project on ****effect
     * Also, during a regressed autocracy episode, the executive will have more power to divide and coopt the opposition and ignore any subpoenas that may originate from the legislative body. This result is backed by the overwhelming decrease in Executive oversight, Legislature opposition parties, and Legislature questions officials in practice sub-components during the regressed autocracy period.
 * **Visualizations:** 
     * See the following plots for visualizations of the key findings and results from the SCM experiments, more results and robustsness checks can be seen on the plots and results directories: 
-        * (Legislative Constraints on the Executive)[https://github.com/pablohernandezb/the-crisis-of-divided-government/blob/main/plots/scm_v2xlg_legcon.png]
-            * (Legislature Investigates in Practice)[https://github.com/pablohernandezb/the-crisis-of-divided-government/blob/main/plots/scm_v2lginvstp.png]
-            * (Legislature Opposition Parties)[https://github.com/pablohernandezb/the-crisis-of-divided-government/blob/main/plots/scm_v2lgoppart.png]
-            * (Executive Oversight)[https://github.com/pablohernandezb/the-crisis-of-divided-government/blob/main/plots/scm_v2lgotovst.png]
-            * (Legislature Questions Officials in Practice)[https://github.com/pablohernandezb/the-crisis-of-divided-government/blob/main/plots/scm_v2lgqstexp.png]
+        * [Legislative Constraints on the Executive](https://github.com/pablohernandezb/the-crisis-of-divided-government/blob/main/plots/scm_v2xlg_legcon.png)
+            * [Legislature Investigates in Practice](https://github.com/pablohernandezb/the-crisis-of-divided-government/blob/main/plots/scm_v2lginvstp.png)
+            * [Legislature Opposition Parties](https://github.com/pablohernandezb/the-crisis-of-divided-government/blob/main/plots/scm_v2lgoppart.png)
+            * [Executive Oversight](https://github.com/pablohernandezb/the-crisis-of-divided-government/blob/main/plots/scm_v2lgotovst.png)
+            * [Legislature Questions Officials in Practice](https://github.com/pablohernandezb/the-crisis-of-divided-government/blob/main/plots/scm_v2lgqstexp.png)
 
 **6. Conclusion**
 
