@@ -1,0 +1,11 @@
+variable   type	     mean     stderr   stddev     min        max
+v2xlg_legcon trested .2085455    .0453257    .2125964    .1142855    .3028054
+v2xlg_legcon synthetic  .901418    .0011943    .0056017    .8989343    .9039017
+v2lgotovst treated -1.520182    .2602395    1.220631   -2.061379   -.9789842
+v2lgotovst synthetic 2.350126    .0143692    .0673974    2.320244    2.380008
+v2lginvstp treated  -1.042636 .3297994 1.546896  -1.728492  -.356781
+v2lginvstp synthetic 1.410725 .0223256 .1047164   1.364296    1.457154
+v2lgoppart treated -.9159091    .2032665    .9534046   -1.338625   -.4931932
+v2lgoppart synthetic  2.558038    .0201434    .0944807    2.516147    2.599928
+v2lgqstexp treated -1.052091    .1858681    .8717988   -1.438625    -.665557
+v2lgqstexp synthetic 1.572871    .0104801    .0491561    1.551077    1.594666

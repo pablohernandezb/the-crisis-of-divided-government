@@ -1,0 +1,408 @@
+v2xlg_legcon
+
+unit weights
+                           Co_No  Unit_Weight
+                          Sweden            0
+                     Switzerland            0
+                           Japan            0
+                        Colombia            0
+        United States of America            0
+                         Vietnam            0
+                     North Korea            0
+                          Canada            0
+                       Australia            0
+                      Cape Verde         .012
+                      Costa Rica         .054
+                          France            0
+                         Germany            0
+                         Ireland            0
+                           Italy            0
+                         Morocco         .163
+                     Netherlands            0
+                  United Kingdom            0
+                           China            0
+Democratic Republic of the Congo            0
+                         Jamaica            0
+                            Laos            0
+                         Austria            0
+                        Barbados            0
+                         Belgium            0
+                            Cuba         .033
+                         Denmark            0
+                         Finland         .738
+                         Iceland            0
+                          Israel            0
+                      Luxembourg            0
+                        Malaysia            0
+                     New Zealand            0
+                          Norway            0
+                    Saudi Arabia            0
+                       Singapore            0
+
+predictor balance
+
+                                  Treated  Synthetic 
+               v2x_libdem_pchb   1.233099    1.25959 
+                      ln_gdppc   2.329076   2.505758 
+                        ln_pop   7.288857    6.40015 
+            v2xlg_legcon(1998)       .892    .901053 
+            v2xlg_legcon(1993)       .892    .892071 
+            v2xlg_legcon(1988)       .837    .852942 
+            v2xlg_legcon(1983)       .859    .852942 
+            v2xlg_legcon(1978)       .854    .854066 
+            v2xlg_legcon(1973)       .864    .854323 
+            v2xlg_legcon(1968)        .85    .850081 
+            v2xlg_legcon(1963)       .863    .849429 
+
+post-treatment results
+
+v2xlg_legcon  estimates      pvals  pvals_std 
+          c1   -.002659         .5   .6388889 
+          c2   -.377659          0          0 
+          c3   -.599919          0          0 
+          c4   -.579729          0          0 
+          c5   -.669729          0          0 
+          c6   -.688183          0          0 
+          c7   -.698523          0          0 
+          c8   -.831015          0          0 
+          c9   -.863855          0          0 
+         c10   -.863655          0          0 
+         c11   -.865501          0          0 
+         c12   -.861963          0          0 
+         c13   -.873693          0          0 
+         c14   -.874657          0          0 
+         c15   -.874597          0          0 
+         c16   -.865928          0          0 
+         c17   -.866188          0          0 
+         c18   -.703879          0          0 
+         c19   -.497867          0   .0277778 
+         c20   -.542987          0   .0277778 
+         c21   -.584277          0          0 
+         c22   -.615586          0          0 
+
+Executive Oversight (v2lgotovst)
+
+Unit Weights:
+
+                           Co_No  Unit_Weight
+                          Sweden            0
+                     Switzerland            0
+                           Japan            0
+                        Colombia            0
+        United States of America         .014
+                         Vietnam            0
+                     North Korea            0
+                          Canada            0
+                       Australia            0
+                      Cape Verde         .043
+                      Costa Rica         .654
+                          France            0
+                         Germany            0
+                         Ireland            0
+                           Italy         .015
+                         Morocco            0
+                     Netherlands            0
+                  United Kingdom            0
+                           China            0
+Democratic Republic of the Congo            0
+                         Jamaica            0
+                            Laos            0
+                         Austria            0
+                        Barbados            0
+                         Belgium            0
+                            Cuba            0
+                         Denmark            0
+                         Finland         .185
+                         Iceland            0
+                          Israel            0
+                      Luxembourg            0
+                        Malaysia         .089
+                     New Zealand            0
+                          Norway            0
+                    Saudi Arabia            0
+                       Singapore            0
+
+Predictor Balance:
+
+                                  Treated  Synthetic 
+               v2x_libdem_pchb   1.233099   1.319761 
+                      ln_gdppc   2.329076   2.101182 
+                        ln_pop   7.288857   5.799524 
+              v2lgotovst(1998)      2.245     2.2465 
+              v2lgotovst(1993)      2.245     2.2377 
+              v2lgotovst(1988)      1.455   1.472683 
+              v2lgotovst(1983)      1.455   1.471059 
+              v2lgotovst(1978)      1.303   1.287898 
+              v2lgotovst(1973)      1.303   1.294283 
+              v2lgotovst(1968)      1.303     1.3019 
+              v2lgotovst(1963)      1.303     1.3019 
+
+
+Post-treatment results: Effects, p-values, standardized p-values
+
+              estimates      pvals  pvals_std 
+          c1    -.00642   .5555556   .6111111 
+          c2   -2.09842          0   .0555556 
+          c3   -2.42242          0   .0833333 
+          c4   -2.42242          0   .0833333 
+          c5  -2.980791          0   .0833333 
+          c6  -2.980791          0   .0833333 
+          c7  -3.119787          0   .0833333 
+          c8  -4.457787          0   .0555556 
+          c9  -4.570787          0   .0555556 
+         c10  -4.570787          0   .0555556 
+         c11  -4.570787          0   .0555556 
+         c12  -4.570787          0   .0555556 
+         c13  -4.570787          0   .0555556 
+         c14  -5.013787          0   .0555556 
+         c15  -5.019877          0   .0555556 
+         c16  -4.900284          0   .0555556 
+         c17  -4.900284          0   .0555556 
+         c18  -4.171677          0   .0555556 
+         c19  -3.964677          0   .0555556 
+         c20  -4.057924          0   .0555556 
+         c21  -4.101432          0   .0555556 
+         c22  -4.197436          0   .1111111 
+
+** Legislature investigates in practice (v2lginvstp)
+
+Unit Weights:
+
+                           Co_No  Unit_Weight
+                          Sweden            0
+                     Switzerland            0
+                           Japan            0
+                        Colombia            0
+        United States of America            0
+                         Vietnam            0
+                     North Korea            0
+                          Canada         .535
+                       Australia            0
+                      Cape Verde            0
+                      Costa Rica            0
+                          France            0
+                         Germany            0
+                         Ireland            0
+                           Italy            0
+                         Morocco         .218
+                     Netherlands            0
+                  United Kingdom         .176
+                           China            0
+Democratic Republic of the Congo            0
+                         Jamaica            0
+                            Laos         .071
+                         Austria            0
+                        Barbados            0
+                         Belgium            0
+                            Cuba            0
+                         Denmark            0
+                         Finland            0
+                         Iceland            0
+                          Israel            0
+                      Luxembourg            0
+                        Malaysia            0
+                     New Zealand            0
+                          Norway            0
+                    Saudi Arabia            0
+                       Singapore            0
+
+Predictor Balance:
+
+                                  Treated  Synthetic 
+               v2x_libdem_pchb   1.233099   1.169771 
+                      ln_gdppc   2.329076   2.524684 
+                        ln_pop   7.288857   7.795571 
+              v2lginvstp(1998)      1.301   1.300228 
+              v2lginvstp(1993)      1.301   1.296882 
+              v2lginvstp(1988)      1.014    1.13964 
+              v2lginvstp(1983)      1.231    1.13964 
+              v2lginvstp(1978)       .946    .997646 
+              v2lginvstp(1973)       1.15   1.104111 
+              v2lginvstp(1968)       .942    .874697 
+              v2lginvstp(1963)          1   1.000422 
+
+
+
+Post-treatment results: Effects, p-values, standardized p-values
+
+              estimates      pvals  pvals_std 
+          c1    .013073   .5555556   .8611111 
+          c2  -1.019927          0   .0555556 
+          c3  -1.647927          0   .0833333 
+          c4  -1.693335          0   .0833333 
+          c5  -2.283623          0   .0277778 
+          c6  -2.595829          0   .0555556 
+          c7   -2.77675          0   .0555556 
+          c8   -3.60975          0          0 
+          c9  -4.044765          0   .0555556 
+         c10  -4.044765          0   .0555556 
+         c11  -4.062911          0   .0555556 
+         c12  -4.049779          0   .0833333 
+         c13  -4.092009          0   .0555556 
+         c14  -4.034648          0   .0555556 
+         c15  -4.031399          0   .0555556 
+         c16  -3.949458          0   .0833333 
+         c17  -3.949458          0   .1111111 
+         c18  -1.341334          0   .1944444 
+         c19   -.219043   .4444444   .5833333 
+         c20   -.040273   .8055556   .9166667 
+         c21    .177903   .5833333        .75 
+         c22   -.211382   .5833333   .7777778 
+
+** Legislature opposition parties (v2lgoppart)
+
+Unit Weights:
+
+                   Co_No  Unit_Weight
+                  Sweden            0
+             Switzerland            0
+                   Japan            0
+                Colombia            0
+United States of America            0
+                 Vietnam            0
+             North Korea            0
+                  Canada            0
+               Australia            0
+              Costa Rica            0
+                  France            0
+                 Germany            0
+                 Ireland            0
+                   Italy          .42
+             Netherlands            0
+          United Kingdom            0
+                   China         .026
+                 Jamaica            0
+                 Austria            0
+                Barbados            0
+                 Belgium            0
+                 Denmark            0
+                 Finland            0
+                 Iceland            0
+                  Israel         .554
+              Luxembourg            0
+             New Zealand            0
+                  Norway            0
+            Saudi Arabia            0
+               Singapore            0
+
+Predictor Balance:
+
+                                  Treated  Synthetic 
+               v2x_libdem_pchb   1.233099   1.281985 
+                      ln_gdppc   2.329076   2.793639 
+                        ln_pop   7.288857   7.228437 
+              v2lgoppart(1998)      2.526    2.52583 
+              v2lgoppart(1993)      2.526    2.52583 
+              v2lgoppart(1988)      2.526    2.52583 
+              v2lgoppart(1983)      2.526    2.52583 
+              v2lgoppart(1978)      2.526    2.52583 
+              v2lgoppart(1973)      2.526    2.52583 
+              v2lgoppart(1968)      2.526    2.52583 
+              v2lgoppart(1963)      2.526    2.52583 
+
+
+Post-treatment results: Effects, p-values, standardized p-values
+
+              estimates      pvals  pvals_std 
+          c1   -.000206          1         .2 
+          c2  -2.192206          0          0 
+          c3  -3.289206          0          0 
+          c4  -2.903206          0          0 
+          c5  -2.903206          0          0 
+          c6  -2.903206          0          0 
+          c7  -2.903206          0          0 
+          c8  -3.669206          0          0 
+          c9   -4.18554          0          0 
+         c10   -4.18554          0          0 
+         c11  -4.043412          0          0 
+         c12  -4.043412          0          0 
+         c13  -4.043412          0          0 
+         c14  -4.187808          0          0 
+         c15  -4.187808          0          0 
+         c16  -4.187808          0          0 
+         c17  -4.187808          0          0 
+         c18   -3.72947          0          0 
+         c19   -2.90847          0          0 
+         c20   -3.37147          0   .0333333 
+         c21   -4.00547          0   .0333333 
+         c22   -4.10564          0   .0333333 
+
+** Legislature questions officials in practice (v2lgqstexp)
+
+Unit Weights:
+
+                   Co_No  Unit_Weight
+                  Sweden            0
+             Switzerland            0
+                   Japan         .387
+                Colombia            0
+United States of America            0
+                 Vietnam            0
+             North Korea         .091
+                  Canada         .002
+               Australia         .003
+              Costa Rica            0
+                  France         .006
+                 Germany            0
+                 Ireland         .198
+                   Italy         .004
+             Netherlands         .004
+          United Kingdom         .003
+                   China            0
+                 Jamaica         .266
+                 Austria         .005
+                Barbados         .004
+                 Belgium         .006
+                 Denmark         .003
+                 Finland         .004
+                 Iceland         .003
+                  Israel            0
+              Luxembourg         .002
+             New Zealand         .005
+                  Norway         .003
+            Saudi Arabia            0
+               Singapore         .001
+
+Predictor Balance:
+
+                                  Treated  Synthetic 
+               v2x_libdem_pchb   1.233099   1.233339 
+                      ln_gdppc   2.329076   2.329276 
+                        ln_pop   7.288857   7.287618 
+              v2lgqstexp(1998)       1.09   1.608936 
+              v2lgqstexp(1993)       1.09   1.608936 
+              v2lgqstexp(1988)       1.09   1.608936 
+              v2lgqstexp(1983)       1.09   1.608936 
+              v2lgqstexp(1978)      2.083   1.608936 
+              v2lgqstexp(1973)      2.083   1.608936 
+              v2lgqstexp(1968)      2.083   1.608936 
+              v2lgqstexp(1963)      2.083   1.608936 
+
+
+Post-treatment results: Effects, p-values, standardized p-values
+
+              estimates      pvals  pvals_std 
+          c1   -.852168          0         .5 
+          c2  -1.807168          0   .4333333 
+          c3  -2.776168          0         .3 
+          c4  -2.776168          0         .3 
+          c5  -2.776168          0         .3 
+          c6  -2.776168          0         .3 
+          c7  -2.776168          0         .3 
+          c8  -2.776168          0         .3 
+          c9  -3.659168          0   .3333333 
+         c10  -3.659168          0   .3333333 
+         c11  -3.659168          0   .2333333 
+         c12  -3.659168          0   .2333333 
+         c13  -4.046168          0   .2333333 
+         c14  -4.046168          0         .4 
+         c15  -3.938949          0         .4 
+         c16  -3.938949          0   .3666667 
+         c17  -3.938949          0   .3666667 
+         c18  -2.582949          0   .4666667 
+         c19  -1.916949          0         .6 
+         c20  -2.217949          0   .6666667 
+         c21  -2.146309          0   .7666667 
+         c22  -2.146309          0   .7333333 
+
+

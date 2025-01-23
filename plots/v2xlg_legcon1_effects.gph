@@ -1,0 +1,645 @@
+StataFileTM:00001:01000:LiveGPH:                       :
+00007:00007:
+*! classname: twowaygraph_g
+*! family: twoway
+*! command: twoway (line effect5-effect67  year, lpattern(solid..) lcolor(teal..)) (line effect70-effect110  year, lpattern(solid..) lcolor(teal..)) (line effect111-effect168  year, lpattern(solid..) lcolor(teal..)) (line effect169-effect200  year, lpattern(solid..) lcolor(teal..)) (line effect51 year, lstyle(foreground..)), xline(1997) name(v2xlg_legcon1_effects, replace) ylabel(, nogrid) legend(order(38 "Treated" 1 "Donors")) ytitle("Effects - Legislative constraints on the executive index")
+*! command_date:  7 Dec 2022
+*! command_time: 23:19:03
+*! datafile: 
+*! datafile_date: 
+*! scheme: s2color
+*! naturallywhite: 1
+*! xsize: 5.5
+*! ysize: 4
+*! end
+<BeginItem> serset Kd68af68 
+<BeginSerset>
+<BeginSeries>
+.name = `"effect5"'
+.label = `"5 effect"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -.006188000086695
+.max =  .027921000495553
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"effect6"'
+.label = `"6 effect"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -.0209149997681379
+.max =  .047155998647213
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"effect9"'
+.label = `"9 effect"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -.0138050001114607
+.max =  .0156650003045797
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"effect15"'
+.label = `"15 effect"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -.0672990009188652
+.max =  .0204809997230768
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"effect20"'
+.label = `"20 effect"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -.0778660029172897
+.max =  .0185870006680489
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"effect34"'
+.label = `"34 effect"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -.0435650013387203
+.max =  .0976080000400543
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"effect41"'
+.label = `"41 effect"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -.0487059988081455
+.max =  .0055889999493957
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"effect51"'
+.label = `"51 effect"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -.8746569752693176
+.max =  .0247969999909401
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"effect66"'
+.label = `"66 effect"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -.0705379992723465
+.max =  .0258520003408194
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"effect67"'
+.label = `"67 effect"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -.0205329991877079
+.max =  .0169890001416206
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"year"'
+.label = `"Year"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  1959
+.max =  2019
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"effect70"'
+.label = `"70 effect"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -.2739099860191345
+.max =  .1398089975118637
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"effect73"'
+.label = `"73 effect"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -.0149140004068613
+.max =  .031062999740243
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"effect76"'
+.label = `"76 effect"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -.0196119993925095
+.max =  .0534919984638691
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"effect77"'
+.label = `"77 effect"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -.0056239999830723
+.max =  .0086559997871518
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"effect81"'
+.label = `"81 effect"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -.0254299994558096
+.max =  .0329089984297752
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"effect82"'
+.label = `"82 effect"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -.0178059991449118
+.max =  .0250489991158247
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"effect90"'
+.label = `"90 effect"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -.0766019970178604
+.max =  .1585379987955093
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"effect91"'
+.label = `"91 effect"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -.0111379995942116
+.max =  .0069050001911819
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"effect101"'
+.label = `"101 effect"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -.0265919994562864
+.max =  .0183150004595518
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"effect110"'
+.label = `"110 effect"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -.0081380000337958
+.max =  .0366659983992577
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"effect111"'
+.label = `"111 effect"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -.1264889985322952
+.max =  .3047490119934082
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"effect120"'
+.label = `"120 effect"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -.0187550000846386
+.max =  .2551699876785278
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"effect123"'
+.label = `"123 effect"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -.3463189899921417
+.max =  .1219220012426376
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"effect144"'
+.label = `"144 effect"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -.0876749977469444
+.max =  .1085800006985664
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"effect147"'
+.label = `"147 effect"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -.0949079990386963
+.max =  .0450019985437393
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"effect148"'
+.label = `"148 effect"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -.0047949999570847
+.max =  .0458999983966351
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"effect155"'
+.label = `"155 effect"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -.2587629854679108
+.max =  .0722329989075661
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"effect158"'
+.label = `"158 effect"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -.0037400000728667
+.max =  .012818000279367
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"effect163"'
+.label = `"163 effect"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -.0197470001876354
+.max =  .0053630000911653
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"effect168"'
+.label = `"168 effect"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -.0248840004205704
+.max =  .0583840012550354
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"effect169"'
+.label = `"169 effect"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -.0213070008903742
+.max =  .0100689996033907
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"effect174"'
+.label = `"174 effect"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -.0032520000822842
+.max =  .000791999977082
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"effect177"'
+.label = `"177 effect"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -.0618750005960464
+.max =  .3139359951019287
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"effect185"'
+.label = `"185 effect"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -.0997790023684502
+.max =  .0117490002885461
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"effect186"'
+.label = `"186 effect"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -.0279820002615452
+.max =  .0257339999079704
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"effect197"'
+.label = `"197 effect"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -.0520000010728836
+.max =  -.003000000026077
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"effect200"'
+.label = `"200 effect"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -.0182470008730888
+.max =  .1101899966597557
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite &   =   ˛˛˛˛˛˛˛˛˛˛ˇ˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛effect5 gcon5                                                                                                                                         effect6 gcon6                                                                                                                                         effect9 gcon9 ynth                                                                                                                                    effect15 con15                                                                                                                                        effect20 con20                                                                                                                                        effect34 con34                                                                                                                                        effect41 con41                                                                                                                                        effect51 con51                                                                                                                                        effect66 con66                                                                                                                                        effect67 con67                                                                                                                                        year                                                                                                                                                  effect70 con70                                                                                                                                        effect73 con73                                                                                                                                        effect76 con76                                                                                                                                        effect77 con77                                                                                                                                        effect81 con81                                                                                                                                        effect82 con82                                                                                                                                        effect90 con90                                                                                                                                        effect91 con91                                                                                                                                        effect101 on101                                                                                                                                       effect110 on110                                                                                                                                       effect111 on111                                                                                                                                       effect120 on120                                                                                                                                       effect123 on123                                                                                                                                       effect144 on144                                                                                                                                       effect147 on147                                                                                                                                       effect148 on148                                                                                                                                       effect155 on155                                                                                                                                       effect158 on158                                                                                                                                       effect163 on163                                                                                                                                       effect168 on168                                                                                                                                       effect169 on169                                                                                                                                       effect174 on174                                                                                                                                       effect177 on177                                                                                                                                       effect185 on185                                                                                                                                       effect186 on186                                                                                                                                       effect197 on197                                                                                                                                       effect200 on200                                                                                                                                       %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                       †ñXyø   ‡Ωjïø   ¿ÀEåø   ‡Å:±ø   ¿Ô≥ø   ‡&N¶ø    ˛Ô®ø   †0˝Îø   @«≤ø   @öïø     úû@   ¿Ωá—ø   @;ãéø    +îø    1	wø   `R
+öø   `º;íø   @0ú≥ø    ÖœÜø   ‡Ó:õø   ‡ß™Äø   † 0¿ø   ¿Ç4ìø    *÷ø   `ﬁq∂ø    ‰K∏ø    Ï£sø   †íè–ø   @Y£nø   ¿é8îø    1{ôø   †Ä—ïø   @£jø   ÄÆØø   ‡ãπø   @Pßúø   Äæü™ø   ÄWØíø   †Róú?   ¿‘$®?   `|
+ê?   †¯¯î?   Äxì?   Ä÷¸∏?   ¿}‰v?   Äbdô?   `Úxö?   Äêeë?     åü@   ‡BÂ¡?   †˙Œü?   †Mc´?   †<∫Å?   ¿rŸ†?   ‡q¶ô?    ˘Jƒ?   ‡jH|?   ‡*¡í?   ¿‚≈¢?    Å”?   Ä¥T–?   ¿G6ø?    ÊÀª?   ÄÄ
+ß?   `4Äß?   †‹}≤?   ‡R@ä?   `É˜u?    Ç‰≠?   @üÑ?    «ÛI?    á‘?    ‹à?   ÄZö?   ¿tìhø   `i5º?6è√πÍM;j”;üq·9ã·j9∏@Ç;A∑ªÀ4Ω)îÖºEs:     úû@ØÕ¶=œ¯>ªùübª‚<ú;-zß;Ì>:Ã—º‡0—9Vöîªj˙Ïπ6#S>∫Y<√ª=áßWΩ6‰_Ω„≈¬;∏Yº:P∆¯:ñØK:$o=dÕH:˙Ìk9––ø<ÔXÃΩÇ:Âºjºº¿œ8ª6è√πÑ.·:Lã˙;¶õDªã·j9)?©;Æ◊ÙπN“<Ω˘KºEs:     †û@Åò§=œ¯>ª•ı∑ª7åÇ;ùπ;Ì>:Ã—º‡0—9Vöîªj˙Ïπú>£@ü∫/1V=áßWΩ6‰_ΩSX);r≥<P∆¯:ñØK:¨<=dÕH:G¢9o-º”⁄tΩÇ:Âºjºº<öª6è√πÑ.·:Lã˙;¶õDªã·j9∆›∫ªÓ≠:Ãawº˘Kº—À:     §û@Åò§=œ¯>ªhËª7åÇ;&äê;Ì>:Ã—º‡0—9Vöîªj˙Ïπú>¨»Ë∏›àº≈=VΩõêVΩSX);r≥<P∆¯:ñØK:¨<=dÕH:8ûO:E/#ª”⁄tΩÇ:Âºjºº4ù;6è√π®≈:Lã˙;~bπã·j9∆›∫—ä∫Rê∫˘Kº—À:     ®û@Åò§=⁄YtºhËª7åÇ; ˇî;Ì>:ùgÏº‡0—9Vöîª?Uº]Sò>§ôº›àº≈=VΩjN^Ω\¨;=òî<P∆¯:Doq:Gry<dÕH:¨≈ß∑°ÄmªyíÙºÇ:ÂººtºõÁª6è√π9õéπLã˙;(,Ò9ã·j9µ˛ñ9—ä∫a˚…:ÈÚÊ:—À:     ¨û@≈ëß=Fµ;EÛ9ñ&•;RIù∫Ì>:ùgÏº‡0—9Vöîª?Uº∑{)>lï∫›àº≈=VΩjN^ΩSX©9=òî<P∆¯:ı;:‹∏E;dÕH:¨≈ß∑¬ë;'[:Ç:Âººtº1l∫¥Ñª8ÿ;Lã˙;+§|;¨»Ë∫`u‰:—ä∫Ã~]º<0 ;—À:     ∞û@/¡©=Fµ;¯˚≈ª%îæ;RIù∫ºwTªùgÏºö—èªW	ñ<?UºOå=ÏáX<›àºÛé≥Ω»∫Ω;mçª=òî<√:\¨∫∑Ó;Gc:¨≈ß∑~)<'[:<ºtºÎ˛1ª˙¥äªõçï∫Lã˙;ôd‰;¨»Ë∫E∏I;—ä∫ÔT@ºî⁄;¬ﬁD:     ¥û@v¬´=Fµ;”Öª’Ë’;∑Q<U°ÅªùgÏºö—èªú˝;?Uºåÿßº¶+ÿ<›àºÛé≥Ω _¬Ωf‹Tª=òî<Óì#9\¨∫À¢0<7Í∫¨≈ß∑z8Å<ÏÑ∫–“<ºtºΩ ˚∫˙¥äªõçï∫”Ñm<`u‰;¨»Ë∫ÔJ;—ä∫F(∂ª∂<ÄI∫     ∏û@'†©=8ûœ9˙aÑªàI∏ªT;√;Xˇg:+øΩ◊⁄{ªÚ¥¸π?UºUÜæˆœS∫›àº•IâΩT8=«ª=òî<óR<∑#:3¸'<7Í∫ãﬁ)π©0∂<G"∫–“<ºtºÊîÄ∫˙¥äªõçï∫”Ñm<k∏;¨»Ë∫ÔJ;—ä∫F(∂ª∂<R—∫     ºû@'†©=()∞πˆF≠ªàI∏ª‚;Xˇg:˝˙!Ω◊⁄{ª∏v¢ª?UºUÜæˆœS∫›àºalaΩ§®3=«ª=òî<óR<∑#:‹+Û;7Í∫ãﬁ)π©0∂<G"∫–“<ºtºÊîÄ∫˙¥äª_≤Ò9”Ñm<k∏;¨»Ë∫ÔJ;—ä∫\WÃ∫¥XπR—∫     ¿û@'†©=()∞πˆF≠ªàI∏ª‚;Xˇg:˝˙!Ω◊⁄{ª∏v¢ª?UºUÜæˆœS∫›àºalaΩ§®3=∫.¸9=òî<óR<∑#:‹+Û;7Í∫ãﬁ)π©0∂<G"∫–“<ºtºÊîÄ∫˙¥äª_≤Ò9Ìõ{<k∏;àÒöº”P£;"¸ã9V’K<¥XπR—∫     ƒû@'†©=()∞πøF=àI∏ª‚;Xˇg:˝˙!Ω◊⁄{ª∏v¢ª?UºzæˆœS∫†äõºalaΩ§®3=∫.¸9M.=óR<∑#:‹+Û;7Í∫’Ë’∏˜Ã;G"∫–“<ºtºÊîÄ∫µƒ ª%î>∫^.bºzlK:ÊwöºæÉ<"¸ã9f¡D<ÌæªRòwº     »û@ˇuŒ=P˝ª¡Â1=ﬁ!≈9´Ëèºiê<Ç·úΩWC‚;w◊Ÿº?Uºzæ◊4Ô∫d< ºæŸÊ;˝=»∫M.='Ü‰;F~˝:h[ÕªFÎ®ª’Ë’∏˜Ã;Ø
+‘;–“<ºtºDoq∫µƒ ª%î>∫^.bº.8ÉºÊwöºA◊>º"¸ã9Û>é;ÌæªRòwº     Ãû@jë=V€ª∫ı=ﬁ!≈9´Ëèº$o;‘'πºBC;µ¡	<?Uºzæ◊4Ô∫d< º>?Ω˚Ø<J4ªM.='Ü‰;F~˝:h[Õªºy*º’Ë’∏˜Ã;÷X¬;°Gå<ºtºTú∫áA<%î>∫1#<º.8ÉºT›ºÚî’ªÑ{;Û>é;ÌæªRòwº     –û@jë=V€ª<=ﬁ!≈9´Ëèº$o;‘'πº‡M7;µ¡	<?Uº\ æŒ¬ûª¨;>?ΩEÛ =J4ªÂÓì='Ü‰;F~˝:h[ÕªõËsº∑Q8KTΩ÷X¬;°Gå<ºtºTú∫55;—A∫£;º·|jºƒCò<ùπáªª^ö;˛’„;]£e;}%êº     ‘û@:@–Ω‰Ùıª‚<;ﬁ!≈932Hº3¶:Ût.; è(;;mçª?Uº,ﬁΩöñ∫¨;l	y;H‚Â<è¸A:ÂÓì='Ü‰;©06:‡†Ωª Rõ:∑Q8·y)Ω€om;°Gå<ºtºdï∫55;—A∫£;ºsºƒCò<ﬁ™Î:ª^ö;‘bp∫]£e;al°º     ÿû@KøΩ¬1Àª0bü9ﬁ!≈9ÜÀ<+æ!;S%Jº%îæ:VG<?Uº,ﬁΩöñ∫¨;”Ÿ…9Üç≤<lï9ÂÓì='Ü‰;©06:; ‚ªHäH∫∑Q8·y)Ωµ˛8·)d<ºtºœ2ã∫55;†n†∫∏‰8º8M<•€í<i@ºR“√:;(ª°Ämº“4®º     ‹û@f†í=|Ìºt∂Äªﬁ!≈9¬P<ÓÌ;UOfΩ%îæ:w<?Uº_Ï˝ΩZùº|C¡=RIù∏íÆô<¬°∑∫ÂÓì='Ü‰;∑–ï∫/ﬂzºHäH∫™∂∫§p}Ω,Dπ·)d<ºtººzïº55;†n†∫q ˝ªˇëi:•€í<ˇï<‡™;Sï∂:ª+ª∫¡ò;     ‡û@f†í=∑Î%ºoõ©ªﬁ!≈9PâÎ:µ·0;&ã{ΩñØÀªêÖh;?UºZ+öΩ©P];|C¡=aC<—Wê<¬°∑∫>ŒtΩ'Ü‰;∑–ï∫ÿºHäH∫{iä∏ªòÊ<,Dπ·)d<ºtº;™öππào;†n†∫q ˝ª‡ º?‡< Q ª‡™;çG)ª¢},∫¡ò;     ‰û@Úe=’MºUgµ:ﬁ!≈9PâÎ:ß!*:€ΩñØÀªêÖh;?UºZ+öΩ©P];|C¡=4ù;—Wê<¬°∑∫>ŒtΩ'Ü‰;∑–ï∫ÿºÜè:{iä∏ªòÊ<a¡˝8·)d<ºtº∂‰πa˚I;†n†∫q ˝ªlº≈v˜;⁄∆ª‡™;¯8SªöD=∫¡ò;     Ëû@ÈÄd=’MºB2:Ç®˚8PâÎ:…ëŒ9€ΩíÃªêÖh;?UºFD1Ωy ≤∫|C¡=4ù;—Wê<©ˆÈ∫>ŒtΩ'Ü‰;Ù¿«∫l#ºZ/Ü;{iä∏õ÷<a¡˝8·)d<ºtºJ”†∫a˚I;†n†∫q ˝ª1îìº≈v˜;ºwTºè¬ıª`±<öD=∫¡ò;     Ïû@BŒ;=“Sd:‰Ni;Ç®˚8fŸì∫â∫∏ìàºÑÿôª»lº:î!<FD1Ωû%Hª|C¡=M<∂j◊<ºtìª>ŒtΩ'Ü‰;¡Xﬂ∫l#ºó®ﬁ;{iä∏õ÷<ü∫![ñ</›º0ü¨∫@⁄ˇ:Óì#ª>%gª&ˇìºz <⁄®ª’ïœªÉï<’}<Ñ,ã<     û@j4æa5ñ<37_;Ω7Ü8xÚi<nD:áNœ<‰Ni∫˝Ç]º:î!<ñZoº÷®á:|C¡=F∂s<W∞ç<”Ÿ…π>ŒtΩ'Ü‰;∆˘:,¸:†¶;Io∏î‹!=ú3"ª![ñ</›º≠Kç;‚?];2Æ8;>%gª≠3æº«Hˆª⁄®ª’ïœª˜WºÈp;OXb<     Ùû@j4æãq~</G;Ω7Ü8~‚∑ u:≤≤;’?àªcÌÔ;:î!<ñZoº÷®á:|C¡=e=ôû∞ªZt:>ŒtΩ'Ü‰;∆˘:∏[ºª;Io∏î‹!=A’∫Áç</›º≠Kç;°1;Ω7Ü∂àÉª‹õ_;«HˆªŒ5Ã∫&‰Éªﬂó;¸¸˜:)?©;     ¯û@364æ&W±;ˆa;ìZ9~‚∑ u:≤≤;?nø;cÌÔ;:î!<≥ΩŸnπ‡,Â=e=ôû∞ªÔVñ:mΩ'Ü‰;Ú(:‘aºﬂß*:úSI8	˛∑;A’∫Áç</›º≈vw9°1;Ω7Ü∂@Nò∫‹õ_;«HˆªwN≥9_F1ªﬂó;¸¸˜:)?©;     ¸û@364æ&W±;ˆa;ìZ9~‚∑ u:≤≤;?nø;cÌÔ;:î!<ïΩŸnπ>≤˘=e=ôû∞ªÔVñ:}@†º'Ü‰;Ú(:‘aºﬂß*:~‚8ØkºA’∫Áç</›º≈vw9°1;Ω7Ü∂@Nò∫‹õ_;«HˆªwN≥9_F1ª`séº¸¸˜:4˜ê;      ü@364æ&W±;ˆa;ìZ9µåT< u:≤≤;?nø;cÌÔ;:î!<ïΩŸnπ>≤˘=e=ôû∞ªÔVñ:}@†º'Ü‰;Ú(:ú≈ºﬂß*:~‚8Økº≠@ªÁç</›º≈vw9∫e;Ω7Ü∂@Nò∫‹õ_;.<ØºwN≥9_F1ª`séº|ò=;4˜ê;     ü@364æ&W±;D¸C<ìZ9˜C<Á‡:≤≤;ƒ]Ω;cÌÔ;:î!<ïΩŸnπ>≤˘=e=ôû∞ªÔVñ:}@†º'Ü‰;¨≈ßπétÜºr¯$<~‚8Økº·~@<Áç</›ºUjv∫0bü7Ω7Ü∂@Nò∫‹õ_;Â“:wN≥9_F1ª`séºì:|S;     ü@364æ&W±;î›LªìZ9ñÀ=RI9≤≤;ƒ]Ω;cÌÔ;:î!<ïΩŸnπ>≤˘=e=ôû∞ªÔVñ:}@†º'Ü‰;¨≈ßπ√ùãºn¬Ω;~‚8ØkºÁ≈	<Áç</›ºUjv∫0bü7∑–ï∫@Nò∫u´g<Â“:wN≥9_F1ª`séºì:Y¸&∫     ü@364æXsÄ9£ºìZ9]3˘;RI9a™ôºƒ]Ω;ÓC^º:î!<ïΩã7ª>≤˘=¢bº=ˇx/ºÆÙZª}@†º'Ü‰;`Ø∞πOñ=n¬Ω;[îŸ∫ØkºÆ¡:Áç</›º@4sª0bü7∑–ï∫@Nò∫%L<Â“:wN≥9_F1ª`séºì:'€∫     ü@364æ¢/∫#2,ºìZ9≠@;RI9ÏøŒºƒ]Ω;à˜úº:î!<ïΩã7ª>≤˘=Ù€=·—FºÆÙZª}@†º'Ü‰;`Ø∞πY=n¬Ω;[îŸ∫ØkºÆ¡:Áç</›º@4sª0bü7∑–ï∫@Nò∫fº-<Â“:}yA=Ó#∑;ç	±<ì:ƒ'ù:     ü@364æ0;*rà;ìZ9L5≥;RI9ÏøŒºƒ]Ω;à˜úº:î!<ïΩñ&%ª—ŒIæ1_ﬁ=É•:<`ùª}@†º'Ü‰;G„π6Ô<n¬Ω;·4:yËª<È,≥:Áç</›ºò√Ó<0bü7”.&º8ÿõ∫l≤FΩÂ“:~Â¡º9∂;g…< yg:/˘;     ü@Ó=åæîΩ%<,GH;§å∏π}˛;=Gdº…W">¸ §;Áaª:î!<–%=_”É;—ŒIææáÀ<·ñ<◊<Vòº'Ü‰;ºØ;+¯<ÙjÄ;Æ‘3:`Wì<•ﬂ∫mèﬁ;/›ºÆG·<0bü7´BÉºE+˜ªP6eΩ…ëN9"Q(ΩP∆x;\™< yg:/˘;     ü@x`=öÍI;,GH;§å∏πìR–º„›ëº¶~ﬁ=¸ §;?8üª:î!<Áp≠;ÊZ¥ª—ŒIæ≤Ù!<·ñ<®‚F<Vòº'Ü‰;Ã&¿:1`I<ÙjÄ;Æ‘3:0:ª'É#ªmèﬁ;/›ºâaá<0bü7ÔU´º|GºÒ<ÊZ4∏T‰êºÈÔ•:#À<q™5:2…:      ü@}>¿	Ö:°˜F;á¿ë∫µ7¯ªΩ√Ì:#2,=¸ §;Éßª€âí∫¿À¨=>?ºL„wæ™Ò“<ö]˜;“‚<"ƒº'Ü‰;¶õD:∏Êé;ÙjÄ;=π&πú≈ºﬂƒêªmèﬁ;B`ÂªêÖh;0bü7B≤8|Gº˚XA<ÊZ4∏fÖºÇ®{∏D˘Ç;ÇU:íç:     $ü@*>¿	Ö:∂d∫Õ¨%∫k}º©jÇ:#2,=÷éb;∑^S<€âí∫„©«<ˇ∫Ù©Cæä`<˙'8ªs0;"ƒº'Ü‰;¶õD:•hÂ;⁄∆ü:,D∫ﬁë1ºﬂƒêªWÌ;B`ÂªÍ≤ò∫0bü7∞„?πlè;jﬂ\<ÊZ4∏ÿ∫T;¨≈ßπD˘Ç;ÇU:¨<Å:     (ü@⁄X	>5∏-<Ü=Ì∫Õ¨%∫)=Sº?Âò;#2,=P¶Q;–BÇ<€âí∫„©«<å°ªÉl9æjá?<(Fñª{i
+8"ƒº'Ü‰;œ2∫•hÂ;∑ñI:Àù∫4ΩDºü=ºÇ’:B`Âªºî:ª0bü7˚Í*∫lè;≈«ß<ÊZ4∏ÿ∫T;¨≈ßπD˘Ç;ÇU:¨<Å:     ,ü@⁄X	>Ë!<Ü=Ì∫Õ¨%∫)=Sº?Âò;#2,=P¶Q;–BÇ<€âí∫„©«<ÁaªÉl9æjá?<(Fñª{i
+8"ƒº'Ü‰;í∫•hÂ;∑ñI:Àù∫4ΩDºü=ºÇ’:B`Âª≈≠Çª0bü7eVoªlè;æhºÊZ4∏˚ É;¨≈ßπ4ºÇU:¨<Å:     0ü@rm®=¡Xﬂ:Ü=Ì∫Õ¨%∫ÍëÜº-
+;ªN>P¶Q;–BÇ<€âí∫„©«<ÁaªÉl9æE¶º(Fñª&E<"ƒº'Ü‰;í∫•hÂ;∑ñI:Àù∫4ΩDºD§&ºÇ’:B`Âªjíª0bü7gª€‹ò;Äe%º()∞7w,∂<Ç®{πûB.ªÇU:ºL∫     4ü@è©ª=ÈòÛ;˙aÑ∫Õ¨%∫∑Am<™π\:C¡=Ñ‘m;ã¶3<€âí∫s⁄”<©06∫Él9æAö±∫9õªkÄR<"ƒº'Ü‰;Ugµπ+æ°ª/«:Àù∫»E5º>Ï<ª+;;B`ÂªG¢∫0bü7µ˛9€‹ò;≠i^º()∞7w,∂<Ç®{πûB.ªÇU:ºL∫     8ü@è©ª=Ç«∑<˙aÑ∫Õ¨%∫aU=<™π\:C¡=Ñ‘m;ã¶3<€âí∫s⁄”<å°ªÉl9æAö±∫9õªI∫"ƒº'Ü‰;C„	∫+æ°ª/«:Àù∫»E5º§ˇÂ;ª+;;B`ÂªG¢∫0bü7«ºéª€‹ò;≠i^º()∞7w,∂<Ç®{πÖ\¡æÇU:ºL∫     <ü@è©ª=Ç«∑<˙aÑ∫Õ¨%∫aU=<™π\:C¡=Ñ‘m;ã¶3<€âí∫s⁄”<å°ªÉl9æAö±∫9õªtbè<"ƒº'Ü‰;C„	∫+æ°ª/«:Àù∫»E5º§ˇÂ;ª+;;B`ÂªG¢∫0bü7«ºéª„SÄ<º<ùº()∞7ÀI®<Ç®{πKîøÁ‡:	ª     @ü@ûEØ=õÊù<wN≥ªúS…∫“≈;á‡8ªËN∞=Ñ‘m;&~;€âí∫î1>Å#>Él9æ?åê<sÇªÓá<"ƒº'Ü‰;¬∫lÃkº/«:Àù∫èìº‰u;ª+;;B`Âªßª“Sd∫¥êª„SÄ<CÆΩ/$<’"¢∫(,q∫iø∞„?π	ª     Dü@w0b=wgm<ﬁ!EºúS…∫“≈;˘◊ÚªÜ>Ñ‘m;&~;≤/Yªw>Å#>Él9æÌGä∫Ê$îªÓá<åÚÃº'Ü‰;¬∫lÃkº?»≤πoV∫	¬ïºπ/;ª+;;¶õDªø“yª“Sd∫÷UÅª`"^<KZ1Ω/$<π9<Gàª\s+ø∞„?π	ª     Hü@w0b=è7y<"ˇLºúS…∫Îò;˘◊ÚªÜ>ˇÎ\;Ÿ`·;≤/Yªê>ó8>‚èRæ1ÎEª”Ü√ªÿá<80yΩ'Ü‰;<3¡∫lÃkº[O∫¯|∫j¶˚<π/;%Œ
+;¶õDªÚ/ª“Sd∫‹†v<`"^<‹¯º/$<ûaÍ<Gàª√,0øÙ¿«π	ª     Lü@⁄«™=øa¢<SÆpº\ëªÎò;<0ÄªÒÄ≤=ˇÎ\;Ÿ`·;≤/Yª“rp>¥9>‚èRæè¬u<”Ü√ª†˘<80yΩ'Ü‰;<3¡∫hïôº[O∫¯|∫∂- <•ÿQ;%Œ
+;¶õDª{Xª“Sd∫ïa\<+§¸;¶ôÓº/$<ÅòÑ<6Wºg“2øàK<	ª     Pü@+Ü´=øa¢<C…dº,DªÎò;<0ÄªÒÄ≤=ˇÎ\;Ÿ`·;≤/Yª	ﬂK>:#>™*åæè¬u<”Ü√ªUjˆ;]$æ'Ü‰;<3¡∫W∞çº[O∫<ˆ≥∫˛ò&>•ÿQ;%Œ
+;¶õDª¶õDª“Sd∫ïa\<ò¬É;¶ôÓº/$<§ﬂ><k+ˆºfΩTø–—™;	ª     Tü@+Ü´=øa¢<C…dº+æ°;Îò;-@€ª#Ø=~ßI;Ÿ`·;∞u©<	ﬂK>¬Ÿ=>™*åæè¬u<”Ü√ªUjˆ;]$æÓì#9AÙ$ªW∞çº[O∫<ˆ≥∫˛ò&>•ÿQ;%Œ
+;/›º¶õDª4ùªaç3<ò¬É;v§˙ºcÚÜ<Çt1<ÈÒ˚ºö%]øâÎò<	ª     Xü@Ûì™=øa¢<X©†ºôªñ;Îò;’>ù<pÎÆ=≥x1;ÒõB<◊¶±<·v>F|7>™*åæ7@<Ø?	ºj⁄E;]$æÓì#9AÙ$ª·”úºâœª<ˆ≥∫b˘#>~=;¨»h:B`Âºpa]ª4ùª¯<ò¬É;l‚ºv¡‡;:<Ìdº~]ø{ô<y]?ª     \ü@üÕ™=õô<;™;ØZô;çn:’>ù<Óñ§=≥x1;zåÚ;âD°<•£l>ÈN>≥èæÓZ¬<1ÌºDßg<]$æÓì#9]7%ªDl∞ºâœª<ˆ≥∫Jô$>~=;¨»h:Ù˝‘ºÅª4ùª·A3<ò¬É;ìΩv¡‡;•ÖÀ;Ìdºyë]ø{ô<¨≈ß8     `ü@Tú=∫æè<;™;ØZô;∆˘:jáøª¨6ø=ªÒÓ:zåÚ;âD°<•£l>ÈN>≥èæÖ%û<1Ìºw.;]$æÓì#9]7%ªDl∞ºâœª<ˆ≥∫Jô$>t|4;¨»h:Ù˝‘º`<ÉªçG)ªF}<O]y;Ω4≈ºW%<àÉÑ<∞:Úºõ©\øEë<¨≈ß8     dü@Çº=◊i§<`Ø0:÷Âî;ÀX:‡kªR“É=ªÒÓ:zåÚ;âD°<>{>àK>≥èæpÎÓ<1Ìº$<6ËæÓì#9]7%ªàŸÀº©06ª&W±∫0Û>ÍM;¨»h:Ù˝‘ºJ&ßª˜Ã∏L›<ﬂmﬁ:Äª,Ω∫€ı;‚–ªèΩX™_øˇ\¥<˝Ç]ª     hü@ı÷Ä=ÜÂO<ÕØf:;m<~äcπ_AºIÔ=wN≥;zåÚ;Á˛Í<©¬o>≥U>≥èæÖô6<1ÌºçÌ5:6Ëæ uª%LªHP|ºn¸âª‚–∫£>5	ﬁ:¨»h:)\ΩË°ª˜Ã∏hB<ﬂmﬁ:ò4∆º∫€ı;‹’´:¨«˝ºÖÈ_øcòì<˝Ç]ª     lü@xÌí=“√P<úPà:;m<~äcππ«R<îOœ=‚∂;ﬁ«—;◊¶±<©¬o>#æS>≥èæÁ:ç<âºüÆÓ:6Ëæ uªˇëÈªHP|ºŒUsª‚–∫£>ÎÛ:∫¢î:B`Âº©jÇª˜Ã∏hB<w¶:dX≈º∫€ı;∆˘:Mi˝ºóÂ_ø¯§ì<˝Ç]ª     pü@≈˛í=“√P<4˜ê:Â—<~äcππ«R<Gtœ=‚∂;ﬁ«—;∞u©<Ã{l>v_>ªCíæÁ:ç<âºïfÛ:|d#æ uªˇëÈª¢&zºŒUsªÑÒ”∫Ä)>ÎÛ:∫¢î:/›º+àÅªìT&;1]<ßë<’yΩ'Ü‰;~9ì=ΩßÚºu≠]øì«”<æh<     tü@5$Æ=6r›;∑Q;∫¢îªAÔ<l¿<&®°=P:;Îé≈;âD°<+Ü>/¬t>f¿ëæ¿≤“<ˇïºføn<≠M3æ’""<˜Ãí;ﬂ2'ºD˘º}> ∫î29>÷nª:∫¢î:Ù˝‘º≥òX;ìT&;’ÀÔ;ßë<Á ¡º'Ü‰;Œ„ê=ƒΩæ]øë”<æh<     xü@<Ÿ≠=W{X<œ¯>;$òªH¿Ë;l¿<¶†=P:;Îé≈;K: <
+÷>ão>f¿ëæ¿≤“<ˇïºsˆN<≠M3æ’""<‘)è;í0ºD˘º}> ∫≤b8>ûbU:∫¢î:∂Û˝º„≈B:m…™;1%<'Ü‰;˚∫ºÔ<∑–ï=ë—Ωj14øEõc<æh<     |ü@YRÆ=W{X<‚?];,G»:H¿Ë;3®∂<¶†=b¯;Îé≈;K: <\»>Ít>πåæ¿≤“<“„wº—X{<‡’"æ§∆Ñ;vƒ°ºzn!ºu[¢ºíŒ¿∫V+#>ûbU:∫¢î:∂Û˝ºa8W;ºtì;wN3<'Ü‰;m˝4Ω≈ â<¥Ê«=‚ZÌºlË˛æ]˙<<<     Äü@¶~û=7àV<l8ª,G»:iq∆:ü<¨<h@Ω=b¯;π/;◊	=—@>^cw>πåæ≠nı<AÇbºÄûÜ<úmæ§∆Ñ;Ë¢°º.;DºåÆºX∫$>oÉ9∫¢î:É@Ω/â3<ÒH<<&¶=Œ®˘;Â(@ΩÂòåΩjÖi=«ˆ⁄º2øˇ^ä<¶{;     Ñü@ÄHü=Àü<m[=j˙Ï:b¯à<ö∞<•Kø= ›g;π/;˝=≠’=‚ÍÄ>[≥Öæ?:ı<∑— ΩjL<"æ§∆Ñ;bæ<πÊÂ0ºà÷äªû_îπ,>öÍI;∫¢î:ÕÃLΩK´·=Ùãí<ë∑= *ªíØDΩ__ãΩy≠=W+Ω-ìø8ÅiºDl0:     àü@(dÁ=}ì<ÂÌ=Xs ;Å	\<M¿Ø< Ò´=·y©;ÈÔ%;/=©â~=™Ùs>πP±æ?:ı<[B>ΩË‹m<◊Öoæ§∆Ñ;fŸ∫ÉvºVúª·Ç∫rkö>øÔ_;∫¢î:Ù˝TΩ™`‘=ï∫‰<¶&A=j˙lª‘âΩ6xüΩ7q2ΩÒGΩóø:vêΩWÎD<     åü@6Á=’w˛<≤G(=4É¯:ä„@<è3Õ< Ò´=(|6ºRµ]</=ûBé=§•Ç>SB@æX ≤<qlΩ£<=ï|Ñæ§∆Ñ;Åñ.º9cò<æ>ºÇUª8º†>’ËU∏ëŒ∫Ù˝TΩÊÃ∂=
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> scheme Kd68db08 
+.setscheme , scheme(s2color) naturallywhite(1)
+<EndItem>
+<BeginItem> twowaygraph_g Kc9d7368 <UseScheme> Kd68db08
+.sersets[1] = .__Map.Kd68af68.ref
+.insert (plotregion1 = .plotregion.new , style(scheme twoway) graph(`.objkey')) at 1 1
+.plotregion1.Declare plot1 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof effect5') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p1line) 
+.plotregion1.plot1.style.editstyle line(color(teal)) area(linestyle(color(teal))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot2 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof effect6') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p2line) 
+.plotregion1.plot2.style.editstyle line(color(teal)) area(linestyle(color(teal))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot3 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof effect9') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p3line) 
+.plotregion1.plot3.style.editstyle line(color(teal)) area(linestyle(color(teal))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot4 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof effect15') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p4line) 
+.plotregion1.plot4.style.editstyle line(color(teal)) area(linestyle(color(teal))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot5 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof effect20') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p5line) 
+.plotregion1.plot5.style.editstyle line(color(teal)) area(linestyle(color(teal))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot6 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof effect34') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p6line) 
+.plotregion1.plot6.style.editstyle line(color(teal)) area(linestyle(color(teal))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot7 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof effect41') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p7line) 
+.plotregion1.plot7.style.editstyle line(color(teal)) area(linestyle(color(teal))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot8 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof effect51') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p8line) 
+.plotregion1.plot8.style.editstyle line(color(teal)) area(linestyle(color(teal))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot9 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof effect66') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p9line) 
+.plotregion1.plot9.style.editstyle line(color(teal)) area(linestyle(color(teal))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot10 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof effect67') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p10line) 
+.plotregion1.plot10.style.editstyle line(color(teal)) area(linestyle(color(teal))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot11 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof effect70') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p11line) 
+.plotregion1.plot11.style.editstyle line(color(teal)) area(linestyle(color(teal))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot12 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof effect73') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p12line) 
+.plotregion1.plot12.style.editstyle line(color(teal)) area(linestyle(color(teal))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot13 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof effect76') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p13line) 
+.plotregion1.plot13.style.editstyle line(color(teal)) area(linestyle(color(teal))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot14 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof effect77') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p14line) 
+.plotregion1.plot14.style.editstyle line(color(teal)) area(linestyle(color(teal))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot15 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof effect81') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p15line) 
+.plotregion1.plot15.style.editstyle line(color(teal)) area(linestyle(color(teal))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot16 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof effect82') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p1line) 
+.plotregion1.plot16.style.editstyle line(color(teal)) area(linestyle(color(teal))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot17 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof effect90') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p2line) 
+.plotregion1.plot17.style.editstyle line(color(teal)) area(linestyle(color(teal))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot18 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof effect91') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p3line) 
+.plotregion1.plot18.style.editstyle line(color(teal)) area(linestyle(color(teal))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot19 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof effect101') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p4line) 
+.plotregion1.plot19.style.editstyle line(color(teal)) area(linestyle(color(teal))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot20 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof effect110') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p5line) 
+.plotregion1.plot20.style.editstyle line(color(teal)) area(linestyle(color(teal))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot21 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof effect111') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p6line) 
+.plotregion1.plot21.style.editstyle line(color(teal)) area(linestyle(color(teal))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot22 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof effect120') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p7line) 
+.plotregion1.plot22.style.editstyle line(color(teal)) area(linestyle(color(teal))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot23 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof effect123') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p8line) 
+.plotregion1.plot23.style.editstyle line(color(teal)) area(linestyle(color(teal))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot24 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof effect144') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p9line) 
+.plotregion1.plot24.style.editstyle line(color(teal)) area(linestyle(color(teal))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot25 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof effect147') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p10line) 
+.plotregion1.plot25.style.editstyle line(color(teal)) area(linestyle(color(teal))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot26 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof effect148') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p11line) 
+.plotregion1.plot26.style.editstyle line(color(teal)) area(linestyle(color(teal))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot27 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof effect155') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p12line) 
+.plotregion1.plot27.style.editstyle line(color(teal)) area(linestyle(color(teal))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot28 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof effect158') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p13line) 
+.plotregion1.plot28.style.editstyle line(color(teal)) area(linestyle(color(teal))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot29 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof effect163') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p14line) 
+.plotregion1.plot29.style.editstyle line(color(teal)) area(linestyle(color(teal))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot30 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof effect168') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p15line) 
+.plotregion1.plot30.style.editstyle line(color(teal)) area(linestyle(color(teal))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot31 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof effect169') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p1line) 
+.plotregion1.plot31.style.editstyle line(color(teal)) area(linestyle(color(teal))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot32 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof effect174') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p2line) 
+.plotregion1.plot32.style.editstyle line(color(teal)) area(linestyle(color(teal))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot33 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof effect177') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p3line) 
+.plotregion1.plot33.style.editstyle line(color(teal)) area(linestyle(color(teal))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot34 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof effect185') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p4line) 
+.plotregion1.plot34.style.editstyle line(color(teal)) area(linestyle(color(teal))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot35 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof effect186') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p5line) 
+.plotregion1.plot35.style.editstyle line(color(teal)) area(linestyle(color(teal))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot36 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof effect197') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p6line) 
+.plotregion1.plot36.style.editstyle line(color(teal)) area(linestyle(color(teal))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot37 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof effect200') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p7line) 
+.plotregion1.plot37.style.editstyle line(color(teal)) area(linestyle(color(teal))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot38 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof effect51') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p8line) 
+.plotregion1.plot38.style.editstyle line(foreground) area(linestyle(foreground)) editcopy
+.plotregion1.clear_scales
+.plotregion1.reset_scales , noclear
+.n_views = 38
+.n_plotregions = 1
+.last_style = 38
+.x_scales = `" "1""'
+.y_scales = `" "1""'
+.create_axes 1 1 "9" "" 9
+.insert (legend = .legend_g.new, graphs(`.objkey') style(scheme)) below plotregion1 , ring(3) 
+.legend.style.editstyle box_alignment(S) editcopy
+.legend.holes = ""
+.legend.insert (note = .sized_textbox.new, mtextq(`""') style(scheme leg_note) ) below plotregion1 , ring(3) 
+.legend.note.style.editstyle box_alignment(SW) editcopy
+.legend.note.style.editstyle horizontal(left) editcopy
+.legend.insert (caption = .sized_textbox.new, mtextq(`""') style(scheme leg_caption) ) below plotregion1 , ring(5) 
+.legend.caption.style.editstyle box_alignment(SW) editcopy
+.legend.caption.style.editstyle horizontal(left) editcopy
+.legend.insert (subtitle = .sized_textbox.new, mtextq(`""') style(scheme leg_subtitle) ) above plotregion1 , ring(6) 
+.legend.subtitle.style.editstyle box_alignment(N) editcopy
+.legend.subtitle.style.editstyle horizontal(center) editcopy
+.legend.insert (title = .sized_textbox.new, mtextq(`""') style(scheme leg_title) ) above plotregion1 , ring(7) 
+.legend.title.style.editstyle box_alignment(N) editcopy
+.legend.title.style.editstyle horizontal(center) editcopy
+.legend.rebuild
+.legend.parse_order 38 "Treated" 1 "Donors"
+.legend.repositionkeys
+tempname glsty
+.`glsty' = .gridlinestyle.new, style(scheme)
+.xaxis1.plotregion.declare_xyline .gridline_g.new 1997 , ordinate(x) plotregion(`.xaxis1.plotregion.objkey') styleref(`glsty') 
+.yaxis1.style.editstyle draw_major_grid(no) editcopy
+.yaxis1.title.edit , mtextq(`""Effects - Legislative constraints on the executive index""')   replace
+.insert (r1title = .sized_textbox.new, mtextq(`""') style(scheme r1title) orientation(vertical)) rightof plotregion1 , ring(1) 
+.insert (r2title = .sized_textbox.new, mtextq(`""') style(scheme r2title) orientation(vertical)) rightof plotregion1 , ring(2) 
+.insert (l1title = .sized_textbox.new, mtextq(`""') style(scheme l1title) orientation(vertical)) leftof plotregion1 , ring(1) 
+.insert (l2title = .sized_textbox.new, mtextq(`""') style(scheme l2title) orientation(vertical)) leftof plotregion1 , ring(2) 
+.insert (t1title = .sized_textbox.new, mtextq(`""') style(scheme t1title) ) above plotregion1 , ring(1) 
+.insert (t2title = .sized_textbox.new, mtextq(`""') style(scheme t2title) ) above plotregion1 , ring(2) 
+.insert (b1title = .sized_textbox.new, mtextq(`""') style(scheme b1title) ) below plotregion1 , ring(1) 
+.insert (b2title = .sized_textbox.new, mtextq(`""') style(scheme b1title) ) below plotregion1 , ring(2) 
+.insert (note = .sized_textbox.new, mtextq(`""') style(scheme note) ) below plotregion1 , ring(4) 
+.note.style.editstyle box_alignment(SW) editcopy
+.note.style.editstyle horizontal(left) editcopy
+.insert (caption = .sized_textbox.new, mtextq(`""') style(scheme caption) ) below plotregion1 , ring(5) 
+.caption.style.editstyle box_alignment(SW) editcopy
+.caption.style.editstyle horizontal(left) editcopy
+.insert (subtitle = .sized_textbox.new, mtextq(`""') style(scheme subtitle) ) above plotregion1 , ring(6) 
+.subtitle.style.editstyle box_alignment(N) editcopy
+.subtitle.style.editstyle horizontal(center) editcopy
+.insert (title = .sized_textbox.new, mtextq(`""') style(scheme title) ) above plotregion1 , ring(7) 
+.title.style.editstyle box_alignment(N) editcopy
+.title.style.editstyle horizontal(center) editcopy
+.insert (spacert = .spacer.new) above plotregion1 , ring(11)
+.insert (spacerb = .spacer.new) below plotregion1 , ring(11)
+.insert (spacerl = .spacer.new) leftof plotregion1 , ring(11)
+.insert (spacerr = .spacer.new) rightof plotregion1 , ring(11)
+.command = `"twoway (line effect5-effect67  year, lpattern(solid..) lcolor(teal..)) (line effect70-effect110  year, lpattern(solid..) lcolor(teal..)) (line effect111-effect168  year, lpattern(solid..) lcolor(teal..)) (line effect169-effect200  year, lpattern(solid..) lcolor(teal..)) (line effect51 year, lstyle(foreground..)), xline(1997) name(v2xlg_legcon1_effects, replace) ylabel(, nogrid) legend(order(38 "Treated" 1 "Donors")) ytitle("Effects - Legislative constraints on the executive index")"'
+.date = " 7 Dec 2022"
+.time = "23:19:03"
+.dta_file = ""
+.dta_date = ""
+.yaxis1.style.editstyle majorstyle(tickstyle(textstyle(size(small)))) editcopy
+.yaxis1.style.editstyle majorstyle(tickstyle(textstyle(size(vsmall)))) editcopy
+.yaxis1.title.style.editstyle size(small) editcopy
+.style.editstyle boxstyle(shadestyle(color(white))) editcopy
+.xaxis1.reset_rule 7, tickset(major) ruletype(suggest) 
+.xaxis1.reset_rule 7, tickset(major) ruletype(suggest) 
+.xaxis1.style.editstyle majorstyle(tickstyle(textstyle(size(small)))) editcopy
+.xaxis1.title.draw_view.setstyle, style(no)
+.legend.plotregion1.key[1].xsz.editstyle 5 editcopy
+.legend.plotregion1.key[2].xsz.editstyle 5 editcopy
+.legend.plotregion1.label[1].style.editstyle size(small) editcopy
+.legend.plotregion1.label[2].style.editstyle size(small) editcopy
+<EndItem>
